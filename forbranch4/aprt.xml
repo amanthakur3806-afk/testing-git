@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Catalog data export for web store sync -->
+<catalog updated="2026-09-30">
+    <category name="Electronics">
+        <product id="PROD-9942">
+            <title>QuantumX Wireless Headphones</title>
+            <brand>AeroSound</brand>
+            <pricing currency="INR">
+                <mrp>14999</mrp>
+                <discount_price>11249</discount_price>
+            </pricing>
+            <inventory status="in_stock">84</inventory>
+            <specifications>
+                <spec name="Battery Life">30 Hours</spec>
+                <spec name="Noise Cancellation">Active (ANC)</spec>
+                <spec name="Connectivity">Bluetooth 5.3</spec>
+            </specifications>
+        </product>
+        <product id="PROD-1105">
+            <title>SlimFit Smartwatch v4</title>
+            <brand>Chronos Tech</brand>
+            <pricing currency="INR">
+                <mrp>6499</mrp>
+                <discount_price>5999</discount_price>
+            </pricing>
+            <inventory status="low_stock">4</inventory>
+            <specifications>
+                <spec name="Water Resistance">IP68</spec>
+                <spec name="Display">AMOLED</spec>
+            </specifications>
+        </product>
+    </category>
+</catalog>
